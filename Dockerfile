@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/kube-apiserver-amd64:v1.17.9
+FROM lscr.io/linuxserver/unifi-controller:latest 
